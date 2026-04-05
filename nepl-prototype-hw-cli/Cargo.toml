@@ -1,0 +1,7 @@
+[package]
+name = "nepl-prototype-hw-cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nepl-prototype-hw-core = { path = "../nepl-prototype-hw-core" }

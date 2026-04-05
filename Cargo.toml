@@ -1,0 +1,3 @@
+[workspace]
+members = ["nepl-prototype-hw-core","nepl-prototype-hw-cli"]
+resolver = "3"
